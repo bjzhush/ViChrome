@@ -49,7 +49,6 @@
         "l": "ScrollRight",
         "<C-f>": "PageDown",
         "<C-b>": "PageUp",
-        "<C-d>": "PageHalfDown",
         "<C-u>": "PageHalfUp",
         "gg": "GoTop",
         "G": "GoBottom",
